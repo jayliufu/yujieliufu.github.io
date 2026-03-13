@@ -1,4 +1,4 @@
-name: 肖航课题组  Xiao Research Group
+name: Yujie Liufu
 url: https://xiaohang007.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -34,9 +34,9 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 我
+  - title: 哈喽
     link: /
-  - title: 爱
+  - title: Hi
     link: /research.html
-  - title: 钟仪婷
+  - title: 娃哈哈
     link: /publications.html
